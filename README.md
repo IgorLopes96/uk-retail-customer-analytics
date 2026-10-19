@@ -5,7 +5,7 @@ End-to-end customer analytics for a UK online gift wholesaler: data cleaning, SQ
 **Tools:** Python (pandas, SciPy, scikit-learn), SQL (SQLite window functions and CTEs), Power BI, Confluence, Jira
 **Methods:** Welch's t-test, Mann-Whitney U, K-Means clustering, logistic regression, random forest, cross-validation
 
-📓 [Notebook](notebooks/uk_retail_customer_analytics.ipynb) · 🗄️ [SQL queries](sql/) · 📊 [Dashboard](dashboard/) · 📄 [Business requirements](docs/)
+📓 [Notebook](notebooks/uk_retail_customer_analytics.ipynb) · 🗄️ [SQL queries](sql/) · 📊 [Dashboard](dashboard/) · 📄 [Business requirements](docs/) · 🔗 [Kaggle version](https://www.kaggle.com/code/igormlopes/uk-online-retail-customer-analytics-churn-segmt)
 
 ---
 
